@@ -1,13 +1,6 @@
 const mysql = require('mysql');
 
 
-// const db = mysql.createConnection({
-// 	host:'localhost',
-// 	user:'root',
-// 	password:'Jo-1029384756',
-// 	database:'portal_noticia'
-// });
-
 const db = mysql.createConnection({
 	host:'localhost',
 	user:'root',
